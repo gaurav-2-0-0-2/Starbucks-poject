@@ -1,3 +1,8 @@
+
+body{
+  /* display: flexbox; */
+}
+
 .btn{
     
     width: 20%;
@@ -6,6 +11,29 @@
 }
 
 #logo{
-  width: 7%;
+  width: 6%;
 }
 
+
+/* 2nd Navbar */
+.nav-2{
+   
+   position: fixed;
+}
+
+/* 1st section */
+
+.block-1{
+  text-align: center;
+  padding:0 20% 0 20%;
+  background-color: #d4e9e2;
+  /* display: flex; */
+}
+
+.block-1-heading{
+  padding:0 25% 0 10%;
+}
+
+.block-1-btn{
+  
+}
