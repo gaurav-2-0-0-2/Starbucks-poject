@@ -1,39 +1,61 @@
-
-body{
-  /* display: flexbox; */
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
 }
+/* nav-1 */
 
-.btn{
-    
-    width: 20%;
-    border-radius: 50%;
-   
-}
+
+
+
 
 #logo{
-  width: 6%;
+  width: 3.5%;
 }
 
 
 /* 2nd Navbar */
+
+
+h6{
+  padding: 0;
+}
+
 .nav-2{
-   
+  padding-left: 50px;
    position: fixed;
 }
 
-/* 1st section */
-
-.block-1{
+.nav-2-div{
   text-align: center;
-  padding:0 20% 0 20%;
-  background-color: #d4e9e2;
-  /* display: flex; */
-}
-
-.block-1-heading{
-  padding:0 25% 0 10%;
-}
-
-.block-1-btn{
+  display: flex;
+  padding:10px 0 0 50px;
   
+}
+.nav-2-btn{
+  align-self: flex-end;
+}
+
+/* 1st section */
+.block-1{
+  max-width: 100%;
+}
+
+
+
+.block-1-container{
+  text-align: left;
+  padding-left:50px ;
+}
+.pre-img-div{
+  
+  padding-top: 50px;
+  height: 500px;
+  background-color:  #d5e5e1;
+}
+
+.block-1-img{
+  padding-left: 0;
+  height: 100%;
+   width: 100%;
+
 }
