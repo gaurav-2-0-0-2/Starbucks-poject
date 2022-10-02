@@ -8,6 +8,10 @@ html, body {
 
 
 
+#location-icon{
+  
+}
+
 #logo{
   width: 3.5%;
 }
@@ -22,12 +26,12 @@ h6{
 
 .nav-2{
   padding-left: 50px;
-   position: fixed;
+   /* position: fixed; */
 }
 
 .nav-2-div{
   text-align: center;
-  display: flex;
+  /* display: flex; */
   padding:10px 0 0 50px;
   
 }
