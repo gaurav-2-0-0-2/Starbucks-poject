@@ -6,45 +6,49 @@ html, body {
 
 
 
-
-
-#location-icon{
+#logo{
+  width: 75%;
   
 }
 
-#logo{
-  width: 3.5%;
+
+
+#sign-in-btn{
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  margin-right:5% ;
+  height: 15%;
+  width: 100px;
+  padding-top: 5px;
+  padding-bottom:5px;
+}
+
+#sign-in-btn:hover{
+  background-color: #cfcdcd;
+  color: black;
+}
+
+#join-btn{
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  margin-right:5% ;
+  height: 15%;
+  width: 100px;
+  padding-top: 5px;
+  padding-bottom:5px;
 }
 
 
 /* 2nd Navbar */
 
 
-h6{
-  padding: 0;
-}
-
-.nav-2{
-  padding-left: 50px;
-   /* position: fixed; */
-}
-
-.nav-2-div{
-  text-align: center;
-  /* display: flex; */
-  padding:10px 0 0 50px;
-  
-}
-.nav-2-btn{
-  align-self: flex-end;
-}
-
-/* 1st section */
-.block-1{
-  max-width: 100%;
-}
 
 
+/* block-1 */
 
 .block-1-container{
   text-align: left;
