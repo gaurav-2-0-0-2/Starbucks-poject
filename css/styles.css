@@ -2,6 +2,10 @@ html, body {
   max-width: 100%;
   overflow-x: hidden;
 }
+.text-center{
+  text-align: center;
+  padding:5% ;
+}
 /* nav-1 */
 
 
@@ -67,3 +71,21 @@ html, body {
    width: 100%;
 
 }
+
+/* block-2 Section */
+
+
+
+.block-2-grid{
+  padding-top: 5%;
+  margin:0 5% 0 5%;
+}
+
+.grid-column{
+  margin: 15px;
+}
+
+.block-2-img{
+ width:50px ;
+}
+
