@@ -62,7 +62,7 @@ html, body {
   
   padding-top: 50px;
   height: 500px;
-  background-color:  #d5e5e1;
+  background-color:  #d4e9e2;
 }
 
 .block-1-img{
@@ -87,5 +87,32 @@ html, body {
 
 .block-2-img{
  width:50px ;
+}
+
+
+/* block-3 */
+
+.block-3_1{
+  padding:2rem 0 5rem 0;
+  background-color: #f1f8f6;
+}
+
+.block-3_2{
+  background-color: #f1f8f6;
+
+    
+}
+
+.block-3_2 button{
+  font-size: 1.5rem;
+  border: 0 ;
+  background-color: transparent;
+  /* padding: 0 2% 3% 2%; */
+}
+
+
+
+button hr{
+  border:3px solid rgb(6, 80, 68);
 }
 
