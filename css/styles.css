@@ -182,3 +182,17 @@ button hr{
 .grid-column a:hover{
   text-decoration: none;
 }
+
+
+/* block-5 */
+
+.block-5{
+  background-color:#f3f1e7;
+  text-align: center
+}
+
+.block-5-img{
+  width: 10%;
+  padding-bottom: 25px;
+  float: left;
+}
